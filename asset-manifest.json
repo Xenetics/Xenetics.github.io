@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.07eeed42.chunk.css",
+    "main.js": "/static/js/main.157c2341.chunk.js",
+    "main.js.map": "/static/js/main.157c2341.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35450e16.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35450e16.js.map",
+    "static/js/2.5f8d3749.chunk.js": "/static/js/2.5f8d3749.chunk.js",
+    "static/js/2.5f8d3749.chunk.js.map": "/static/js/2.5f8d3749.chunk.js.map",
+    "static/js/3.ac5d3a1d.chunk.js": "/static/js/3.ac5d3a1d.chunk.js",
+    "static/js/3.ac5d3a1d.chunk.js.map": "/static/js/3.ac5d3a1d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.07eeed42.chunk.css.map": "/static/css/main.07eeed42.chunk.css.map",
+    "static/js/2.5f8d3749.chunk.js.LICENSE.txt": "/static/js/2.5f8d3749.chunk.js.LICENSE.txt",
+    "static/media/roclogo.da4815eb.png": "/static/media/roclogo.da4815eb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35450e16.js",
+    "static/js/2.5f8d3749.chunk.js",
+    "static/css/main.07eeed42.chunk.css",
+    "static/js/main.157c2341.chunk.js"
+  ]
+}
